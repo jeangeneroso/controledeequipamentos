@@ -14,8 +14,8 @@ public class SwaggerConfig {
 	public OpenAPI customOpenAPI() {
 		return new OpenAPI()
 				.info(new Info().
-						title("API Controle de Equipamentos").
-						description("API para controle de equipamentos").
+						title(" Controle de Equipamentos ").
+						description(" Controle de Equipamentos ").
 						version("1.0"));
 		
 		/*OpenAPI openAPI = new OpenAPI()
